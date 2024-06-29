@@ -24,7 +24,7 @@ def check_polyfill(url):
         return 'Error'
 
 # Load the Excel file
-file_path = '../files/websites.xlsx'  # Update this with your file path
+file_path = '../files/links.xlsx'  # Update this with your file path
 wb = load_workbook(file_path)
 sheet = wb.active
 
