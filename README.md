@@ -15,6 +15,8 @@ You can install these libraries using `pip`:
 ```sh
 pip install requests openpyxl beautifulsoup4
 
+```
+
 Usage
 Prepare Your Excel File:
 
