@@ -10,7 +10,7 @@ Ensure you have Python installed. You also need the following Python libraries:
 - `openpyxl`
 - `beautifulsoup4`
 
-You can install these libraries using `pip`:
+You can install these libraries using `pip` if you don't have it already:
 
 ```sh
 pip install requests openpyxl beautifulsoup4
